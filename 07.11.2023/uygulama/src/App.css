@@ -1,0 +1,109 @@
+body{
+  background-color: bisque;
+
+}
+.header{
+  width: 100%;
+  background-color: rgb(193, 135, 114);
+  height: 80px;
+}
+.logo{
+  height: 70px;
+  width: 70px;
+}
+.navbar-menu{
+  display:flex;
+  margin: 10px;
+  float: right;
+}
+.navbar-item{
+  padding-right: 15px;
+  list-style: none;
+  margin-top: 25px;
+}
+.navbar-item a{
+  text-decoration: none;
+  color: white;
+  border: 1px white solid;
+  margin: 5px;
+  padding: 3px;
+  border-radius: 3px;
+}
+.navbar-item a:hover{
+background-color: rgba(255, 255, 255, 0.4);
+box-shadow: 1px 1px  black;
+text-shadow: 1px 1px  black;
+}
+
+/*---------------------------------------------------*/
+
+.sidebar{
+  float:left;
+  width: 180px;
+  background-color:rgb(193, 135, 114);
+  height: 640px;
+}
+
+.sidebar-menu{
+  float: left;
+  width: 100%;
+  padding: 0px;
+}
+.sidebar-item{
+  padding-right: 15px;
+  list-style: none;
+  border: 1px white solid;
+  padding: 3px;
+  
+}
+.sidebar-item a{
+  text-decoration: none;
+  color: white;
+  width: 100%;
+  margin-left: 10px;
+
+}
+.sidebar-item:hover{
+background-color: rgba(255, 255, 255, 0.4);
+box-shadow: 1px 1px  black;
+text-shadow: 1px 1px  black;
+cursor: pointer;
+}
+
+/* ---------------------------------------------------------------- */
+.content{
+  float:left;
+  margin-top: 25px;
+  margin-left: 55px;
+  width: 1000px;
+  height: 610px;
+}
+.content-box{
+  width: 30%;
+  height: 45%;
+  float: left;
+  margin-bottom: 30px;
+  margin-right: 15px;
+  text-align: center;
+  border: 2px solid black;
+  background-color: rgb(193, 135, 114);
+  color: white;
+  border-radius: 10px;
+}
+.content-box img{
+  margin-top: 3px;
+  max-width: 50%;
+  max-height: 50%;
+}
+.content-box p {
+  font-size: small;
+}
+.content-box a{
+  font-size: small;
+  text-decoration: none;
+  color: white;
+  width: 100%;
+
+}
+
+
