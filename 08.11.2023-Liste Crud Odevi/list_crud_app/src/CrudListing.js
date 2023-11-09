@@ -10,7 +10,9 @@ function CrudListing() {
     const [editingIndex, setEditingIndex] = useState(null);
 
     const ProductFunction = () => {
+        //Title ve Text boş değilse koşulu
         if (titleInput && textInput) {
+            //edit işlemindeki durumu belirtir
             if (editingIndex !== null) {
                 const updatedTasks = [...blogList];
                 updatedTasks[editingIndex] = { titleInput, textInput };
@@ -18,6 +20,7 @@ function CrudListing() {
                 setEditingIndex(null);
             }
 
+            //normal ekleme işlemi yapılır
             else {
                 setBlogList([...blogList, { titleInput, textInput }]);
 
@@ -27,14 +30,14 @@ function CrudListing() {
 
         }
     };
+    //edit fonksiyonu:
     const EditFunction = (index) => {
         setEditingIndex(index);
         const taskToEdit = blogList[index];
         setTitleInput(taskToEdit.titleInput);
         setTextInput(taskToEdit.textInput);
     };
-
-
+    
     return (
         <div className="blogs">
             <h3>Blog Listesi: </h3>
