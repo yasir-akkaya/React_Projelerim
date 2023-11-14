@@ -1,0 +1,294 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "categoryId": 2,
+        "productName": "12'li Kağıt Havlu",
+        "image": "https://picsum.photos/200/300",
+        "description": "Ultra emici ve yumuşak kağıt havlu ile mutfağınızda daima temiz ve konforlu bir deneyim yaşayın.",
+        "price": 24.99
+      },
+      {
+        "id": 2,
+        "categoryId": 1,
+        "productName": "Doğal Meyve Suyu",
+        "image": "https://picsum.photos/200/300",
+        "description": "Doğal meyvelerin tazeliğinde, katkı maddesi içermeyen sağlıklı bir içecek.",
+        "price": 5.99
+      },
+      {
+        "id": 3,
+        "categoryId": 3,
+        "productName": "Belçika Çikolatalı Kurabiye",
+        "image": "https://picsum.photos/200/300",
+        "description": "Belçika çikolatasının zengin aromasını ve çıtır çıtır kurabiyelerin tadını çıkarın.",
+        "price": 12.99
+      },
+      {
+        "id": 4,
+        "categoryId": 4,
+        "productName": "Organik Domates",
+        "image": "https://picsum.photos/200/300",
+        "description": "Güneşin altında doğal olarak yetişen, lezzetli ve katkısız domatesler.",
+        "price": 3.99
+      },
+      {
+        "id": 5,
+        "categoryId": 5,
+        "productName": "Esmer Tam Tahıllı Ekmek",
+        "image": "https://picsum.photos/200/300",
+        "description": "Lif ve besin değeri açısından zengin, sağlıklı bir ekmek seçeneği.",
+        "price": 7.99
+      },
+      {
+        "id": 6,
+        "categoryId": 6,
+        "productName": "Taze Tavuk File",
+        "image": "https://picsum.photos/200/300",
+        "description": "Doğal olarak yetiştirilen ve yüksek protein içeren taze tavuk file.",
+        "price": 34.99
+      },
+      {
+        "id": 7,
+        "categoryId": 7,
+        "productName": "Organik Sebze Karışımı",
+        "image": "https://picsum.photos/200/300",
+        "description": "Farklı sebzelerin mükemmel birleşimi ile sağlıklı ve lezzet dolu bir öğün.",
+        "price": 19.99
+      },
+      {
+        "id": 8,
+        "categoryId": 8,
+        "productName": "Somon Füme",
+        "image": "https://picsum.photos/200/300",
+        "description": "Hafif ve lezzetli bir öğün için ideal olan füme somon.",
+        "price": 69.99
+      },
+      {
+        "id": 9,
+        "categoryId": 1,
+        "productName": "Portakal Suyu",
+        "image": "https://picsum.photos/200/300",
+        "description": "Doğal portakal suyu, taze sıkılmış ve vitamin dolu.",
+        "price": 8.99
+      },
+      {
+        "id": 10,
+        "categoryId": 2,
+        "productName": "Bulaşık Deterjanı",
+        "image": "https://picsum.photos/200/300",
+        "description": "Güçlü temizlik için etkili bulaşık deterjanı.",
+        "price": 14.99
+      },
+      {
+        "id": 11,
+        "categoryId": 3,
+        "productName": "Badem Ezmesi",
+        "image": "https://picsum.photos/200/300",
+        "description": "Sağlıklı atıştırmalık, doğal badem ezmesi.",
+        "price": 18.99
+      },
+      {
+        "id": 12,
+        "categoryId": 4,
+        "productName": "Salatalık",
+        "image": "https://picsum.photos/200/300",
+        "description": "Taze ve çıtır salatalık.",
+        "price": 2.49
+      },
+      {
+        "id": 13,
+        "categoryId": 5,
+        "productName": "Kepekli Baget",
+        "image": "https://picsum.photos/200/300",
+        "description": "Sağlıklı kepekli baget ekmek.",
+        "price": 6.99
+      },
+      {
+        "id": 14,
+        "categoryId": 6,
+        "productName": "Hindi Kuşbaşı",
+        "image": "https://picsum.photos/200/300",
+        "description": "Düşük yağ içeriğiyle sağlıklı hindi kuşbaşı.",
+        "price": 27.99
+      },
+      {
+        "id": 15,
+        "categoryId": 7,
+        "productName": "Organik Yulaf Ezmesi",
+        "image": "https://picsum.photos/200/300",
+        "description": "Yüksek lifli organik yulaf ezmesi.",
+        "price": 11.99
+      },
+      {
+        "id": 16,
+        "categoryId": 8,
+        "productName": "Deniz Mahsulleri Karışımı",
+        "image": "https://picsum.photos/200/300",
+        "description": "Çeşitli deniz ürünlerinden oluşan lezzetli karışım.",
+        "price": 59.99
+      },
+      {
+        "id": 17,
+        "categoryId": 1,
+        "productName": "Elma Suyu",
+        "image": "https://picsum.photos/200/300",
+        "description": "Taze sıkılmış doğal elma suyu.",
+        "price": 7.99
+      },
+      {
+        "id": 18,
+        "categoryId": 2,
+        "productName": "Temizlik Bezi",
+        "image": "https://picsum.photos/200/300",
+        "description": "Ev temizliği için etkili temizlik bezi.",
+        "price": 9.99
+      },
+      {
+        "id": 19,
+        "categoryId": 3,
+        "productName": "Cevizli Brownie",
+        "image": "https://picsum.photos/200/300",
+        "description": "İçinde ceviz parçacıkları bulunan enfes brownie.",
+        "price": 14.99
+      },
+      {
+        "id": 20,
+        "categoryId": 4,
+        "productName": "Organik Çilek",
+        "image": "https://picsum.photos/200/300",
+        "description": "Gübre ve pestisit içermeyen organik çilek.",
+        "price": 5.99
+      },
+      {
+        "id": 21,
+        "categoryId": 5,
+        "productName": "Tam Buğday Unlu Poğaça",
+        "image": "https://picsum.photos/200/300",
+        "description": "Tam buğday unu kullanılarak yapılmış lezzetli poğaça.",
+        "price": 9.99
+      },
+      {
+        "id": 22,
+        "categoryId": 6,
+        "productName": "Izgara Köfte",
+        "image": "https://picsum.photos/200/300",
+        "description": "Izgara yapılmış nefis et köftesi.",
+        "price": 24.99
+      },
+      {
+        "id": 23,
+        "categoryId": 7,
+        "productName": "Organik Yoğurt",
+        "image": "https://picsum.photos/200/300",
+        "description": "Sütünden yapılmış organik yoğurt.",
+        "price": 8.99
+      },
+      {
+        "id": 24,
+        "categoryId": 8,
+        "productName": "Karides",
+        "image": "https://picsum.photos/200/300",
+        "description": "Taze ve lezzetli karides.",
+        "price": 49.99
+      },
+      {
+        "id": 25,
+        "categoryId": 1,
+        "productName": "Mango Smoothie",
+        "image": "https://picsum.photos/200/300",
+        "description": "Tropikal mangolarla hazırlanan serinletici smoothie.",
+        "price": 11.99
+      },
+      {
+        "id": 26,
+        "categoryId": 2,
+        "productName": "Granola Bar",
+        "image": "https://picsum.photos/200/300",
+        "description": "Sağlıklı ve enerji dolu granola bar.",
+        "price": 10.99
+      },
+      {
+        "id": 27,
+        "categoryId": 1,
+        "productName": "Limonata",
+        "image": "https://picsum.photos/200/300",
+        "description": "Taze limon suyu ile yapılmış serinletici içecek.",
+        "price": 6.99
+      },
+      {
+        "id": 28,
+        "categoryId": 3,
+        "productName": "Vanilyalı Kurabiye",
+        "image": "https://picsum.photos/200/300",
+        "description": "Vanilya aromalı nefis kurabiye.",
+        "price": 9.99
+      },
+      {
+        "id": 29,
+        "categoryId": 4,
+        "productName": "Organik Marul",
+        "image": "https://picsum.photos/200/300",
+        "description": "Gübre ve pestisit içermeyen organik marul.",
+        "price": 4.99
+      },
+      {
+        "id": 30,
+        "categoryId": 5,
+        "productName": "Tam Çavdar Ekmeği",
+        "image": "https://picsum.photos/200/300",
+        "description": "Tam çavdar unu kullanılarak yapılmış sağlıklı ekmek.",
+        "price": 8.99
+      },
+      {
+        "id": 31,
+        "categoryId": 6,
+        "productName": "Tavuk Şiş",
+        "image": "https://picsum.photos/200/300",
+        "description": "Baharatlı ve ızgara tavuk şiş.",
+        "price": 29.99
+      },
+      {
+        "id": 32,
+        "categoryId": 7,
+        "productName": "Organik Kahve",
+        "image": "https://picsum.photos/200/300",
+        "description": "Sertifikalı organik kahve çekirdekleri.",
+        "price": 17.99
+      }
+    ],
+    "categories": [
+      {
+        "id": 1,
+        "categoryName": "İçecekler"
+      },
+      {
+        "id": 2,
+        "categoryName": "Ev ve Yaşam"
+      },
+      {
+        "id": 3,
+        "categoryName": "Yiyecek ve Atıştırmalıklar"
+      },
+      {
+        "id": 4,
+        "categoryName": "Sebze ve Meyveler"
+      },
+      {
+        "id": 5,
+        "categoryName": "Unlu Mamuller"
+      },
+      {
+        "id": 6,
+        "categoryName": "Et ve Tavuk"
+      },
+      {
+        "id": 7,
+        "categoryName": "Organik Ürünler"
+      },
+      {
+        "id": 8,
+        "categoryName": "Deniz Ürünleri"
+      }
+    ]
+  }
